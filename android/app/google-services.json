@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891297616828",
+    "project_id": "rahul-flutter-app",
+    "storage_bucket": "rahul-flutter-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891297616828:android:5ae1cbeacc0dbc39b9d1b9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTiu87rYDIpWUFoPUnGHzin3LM616V4Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
